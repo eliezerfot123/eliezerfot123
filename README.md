@@ -1,6 +1,6 @@
 <h2> Hi, I'm Eliezer Romero! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">👋</h2>
 
-![](https://media.licdn.com/dms/image/D4E16AQGqYupP3anmJg/profile-displaybackgroundimage-shrink_350_1400/0/1696545512564?e=1701907200&v=beta&t=lhL5IJu3cmaZVpKBDGnnaRoMiAgIZSCd15IvTzkJQxQ)
+![]([https://media.licdn.com/dms/image/D4E16AQGqYupP3anmJg/profile-displaybackgroundimage-shrink_350_1400/0/1696545512564?e=1701907200&v=beta&t=lhL5IJu3cmaZVpKBDGnnaRoMiAgIZSCd15IvTzkJQxQ](https://media.licdn.com/dms/image/D4E16AQEXk0xgRxmMNA/profile-displaybackgroundimage-shrink_350_1400/0/1696561040445?e=1702512000&v=beta&t=vP3Uq5Aad9UbUSQyC2nEQ_pBmWEmf8mc17FDlApAQdQ))
 
 <p>Computer Enginer, Software Architect, Senior Python Developer</p>
 
